@@ -21,7 +21,7 @@ Interested in DS, ML and AI — eager to keep learning.
 ---
 
 ## Languages & Tools
-HTML · CSS · JavaScript · Android · React · Node.js · Git · MySQL · Firebase · Bootstrap · C/C++ · Java · VS Code
+HTML · CSS · JavaScript · Android · React  · Git · MySQL · Firebase · Bootstrap  · Java · VS Code
 
 ---
 
@@ -33,11 +33,10 @@ HTML · CSS · JavaScript · Android · React · Node.js · Git · MySQL · Fire
 
 ---
 
-## Connect
-- Telegram: https://t.me/Dave_bhandari  
-- GitHub: https://github.com/Davekibh  
-- Instagram: https://instagram.com/Dave_bhandari/  
-- LinkedIn: https://linkedin.com/in/dave-bhandari-4a74761a7/
+## Connect 
+- GitHub: https://github.com/Rpariasca1  
+- Instagram: https://www.instagram.com/pariasca_lopez/  
+- LinkedIn: https://www.linkedin.com/in/randy-pariasca-lopez-b5a52b299/
 
 ---
 
