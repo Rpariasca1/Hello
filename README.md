@@ -1,7 +1,7 @@
 <!-- ...existing code... -->
 # Dave Bhandari
 
-[![Banner](https://i.ibb.co/m5WtxyX5/UNIVERSIDAD-C-SAR-VALLEJO.png)]()
+[![Banner](https://i.ibb.co/r2rMWpc2/UNIVERSIDAD-C-SAR-VALLEJO.png)]()
 
 ## About me
 Computer Engineering student · Certified Java Developer (CCA).  
