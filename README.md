@@ -1,7 +1,7 @@
 <!-- ...existing code... -->
 # Dave Bhandari
 
-[![Banner](https://raw.githubusercontent.com/Davekibh/Davekibh/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+[![Banner](https://ibb.co/TM3RC0bM)](https://Davekibh.github.io)
 
 ## About me
 Computer Engineering student · Certified Java Developer (CCA).  
