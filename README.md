@@ -1,5 +1,5 @@
 <!-- ...existing code... -->
-# Dave Bhandari
+# Randy Pariasca Lopez
 
 [![Banner](https://i.ibb.co/r2rMWpc2/UNIVERSIDAD-C-SAR-VALLEJO.png)]()
 
