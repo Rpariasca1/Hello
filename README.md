@@ -2,13 +2,14 @@
 
 ![Banner](https://i.ibb.co/r2rMWpc2/UNIVERSIDAD-C-SAR-VALLEJO.png)
 
-# Hey, soy Randy Pariasca Lopez 👋
+# Hola, soy Randy Yordi Pariasca Lopez 👋
 
-**Estudiante de Ingeniería de Sistemas · 9° Ciclo — Universidad César Vallejo**
+**Estudiante de Ingeniería de Sistemas · 9° Ciclo — Universidad César Vallejo**  
+📍 San Juan de Lurigancho, Lima, Perú
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-pariasca-lopez-b5a52b299/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rpariasca1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pariasca_lopez/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randy.pariasca@gmail.com)
 
 </div>
 
@@ -16,16 +17,14 @@
 
 ## 🙋‍♂️ Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad César Vallejo** (9° ciclo), con experiencia práctica en desarrollo Full-Stack y testing de software. Me apasiona la tecnología, el aprendizaje continuo y la construcción de soluciones reales.
+Soy estudiante entusiasta y proactivo de **Ingeniería de Sistemas** en la **Universidad César Vallejo** (9° ciclo). Tengo conocimientos sólidos en desarrollo de software y análisis de datos, y busco seguir creciendo profesionalmente aplicando mis habilidades con creatividad y dedicación.
 
-- 🎓 **Certificación:** Java Developer (CCA)
-- 💼 **Experiencia:** Práctica profesional como Full-Stack Developer y Website Tester
-- 🔭 **Actualmente trabajando en:** Desarrollo Frontend Web y Android
-- 🌱 **Aprendiendo:** Backend Development, Machine Learning e Inteligencia Artificial
-- 🤝 **Busco colaborar con:** Desarrolladores Fullstack y Android
-- 💬 **Pregúntame sobre:** Frontend, Android y Java
+- 🔭 **Actualmente trabajando en:** Desarrollo web y proyectos con Python e IA
+- 🌱 **Aprendiendo:** Backend development, Machine Learning e Inteligencia Artificial
+- 🤝 **Busco colaborar con:** Desarrolladores Fullstack y proyectos open source
+- 💬 **Pregúntame sobre:** Frontend, Python, Java y Android
 - 😄 **Pronombres:** Él / He
-- ⚡ **Fun fact:** Me encanta programar a cualquier hora del día
+- ⚡ **Fun fact:** Me encanta programar y aprender tecnologías nuevas
 
 ---
 
@@ -37,14 +36,14 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Universidad César Vallejo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -58,7 +57,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Universidad César Vallejo
 
 [![Randy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rpariasca1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Rpariasca1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rpariasca1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://github.com/Rpariasca1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rpariasca1&theme=tokyonight)](https://github.com/Rpariasca1)
 
 </div>
 
@@ -68,38 +67,54 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Universidad César Vallejo
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [🎨 Background Generator](https://github.com/Davekibh/Background-generator) | Generador dinámico de fondos con gradientes | HTML, CSS, JS |
-| [🤖 Robofriends](https://github.com/Davekibh/robofriends) | App de búsqueda de robots con API | React |
-| [📸 Picture Sharing App](https://github.com/Davekibh/Picture-Sharing-app) | Plataforma para compartir imágenes | JavaScript, Firebase |
-| [😊 Detector de Emociones](https://github.com/Rpariasca1) | Detección facial de emociones en tiempo real | Python, Flask, DeepFace |
+| [📚 Sitio Web para Libros](https://github.com/RPARIASCA1/PROYECTO-WEB) | Portafolio responsivo con secciones de proyectos | HTML, CSS, JS, PHP |
+| [🏗️ Sitio Web MVC](https://github.com/RPARIASCA1/PROYECTO-WEB) | Aplicación web con arquitectura MVC | HTML, CSS, JS, PHP |
+| [😊 Detector de Emociones](https://github.com/RPARIASCA1/EMOCIONES) | Detección facial de emociones en tiempo real | Python, Flask, DeepFace |
 
 ---
 
-## 🏆 Hackathons
+## 🏆 Participaciones
 
-| Evento | Link |
-|--------|------|
-| 🌍 Def Hacks Global 2.0 | [defhacks.co](https://defhacks.co/hackathons/global_2.0) |
-| ⚡ Octa Hacks 3.0 | [octahacks.tech](https://octahacks.tech/) |
-| 💡 HackSRM 3.0 | [hacksrm.tech](https://hacksrm.tech/) |
+| Evento | Organización | Año |
+|--------|-------------|-----|
+| 🚀 Feria Internacional de Emprendimiento e Innovación | Universidad César Vallejo | 2025 |
+| 💡 Conecta SJL — I Hackathon Municipal | Municipalidad de SJL | 2025 |
 
 ---
 
-## 🎓 Formación
+## 📜 Certificaciones
 
-**Universidad César Vallejo** · Ingeniería de Sistemas · 9° Ciclo  
+| Certificado | Institución | Año |
+|-------------|-------------|-----|
+| Introducción a la Ciberseguridad | Cisco Networking Academy | Ene. 2026 |
+| 5G Basics: What it's all about | Huawei ICT Academy | Oct. 2025 |
+| Análisis de Datos con Power BI | UPC / Becas Grupo Romero | Feb. 2026 |
+| Excel Básico — nota 19/20 | Ministerio de Trabajo del Perú | Feb. 2026 |
+| Asistente de Help Desk | Universidad César Vallejo | Jun. 2024 |
+
+---
+
+## 🎓 Educación
+
+**Universidad César Vallejo** · Ingeniería de Sistemas · 2021 – 2026 *(en curso)*  
 📍 Lima, Perú
 
-**Certificaciones:**
-- ✅ Java Developer — CCA (Oracle Certified)
+---
+
+## 🌐 Idiomas
+
+- 🇵🇪 Español — Nativo
+- 🇺🇸 Inglés — Básico
+- 🇧🇷 Portugués — Básico
 
 ---
 
 <div align="center">
 
-### 💡 *"El código es poesía escrita en lógica"*
+### 💡 *"El aprendizaje constante es la mejor inversión"*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rpariasca1.Rpariasca1)
 
 </div>
+
 
